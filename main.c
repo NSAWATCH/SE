@@ -40,6 +40,8 @@ int main(int argc, char **argv){
 
 int baseExiste(char *nom){
 
+	printf("Test branch salut !\n");
+
 	int res = 0;
 	char nomDefinitif[512];
 	strcpy(nomDefinitif, nom);
