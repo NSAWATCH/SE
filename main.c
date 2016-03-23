@@ -32,6 +32,8 @@ int main(int argc, char **argv){
 	
 	creerBase( nomBaseTest );
 	
+	printf("Salut !\n");
+	
 	
 	return 0;
 }
