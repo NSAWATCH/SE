@@ -32,7 +32,7 @@ int main(int argc, char **argv){
 	
 	creerBase( nomBaseTest );
 	
-	printf("Salut !\n");
+	printf("Salut ma poule!\n");
 	
 	
 	return 0;
