@@ -65,6 +65,8 @@ int baseExiste(char *nom){
 
 int creerFichier( char *nom, char *extension, char* magicNumber){
 
+	//PDTC
+
 	int fd;
 	char nomDefinitif[512];
 	strcpy(nomDefinitif, nom);
